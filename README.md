@@ -10,4 +10,6 @@ Daily Journal is a simple web application for daily blogs which I coded while le
 - mongoDB
 - mongoose
 
+## 📷 Screen Shot
+
 ![](ex.gif)
